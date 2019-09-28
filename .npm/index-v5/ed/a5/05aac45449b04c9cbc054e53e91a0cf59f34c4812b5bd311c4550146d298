@@ -9,3 +9,4 @@ e19c890266f0499fd181fc5e3007cb87db6f9f8e	{"key":"make-fetch-happen:request-cache
 33d5ac9892c148910158bb8a3c002ecc200f07d3	{"key":"make-fetch-happen:request-cache:https://registry.yarnpkg.com/-/npm/v1/security/audits/quick","integrity":null,"time":1569631998073}
 a41e663cfec7dd6470e2f539f875ec1b7a79346c	{"key":"make-fetch-happen:request-cache:https://registry.yarnpkg.com/-/npm/v1/security/audits/quick","integrity":null,"time":1569632006074}
 fc57fed74309bcabc606a5122c79195159ee05d9	{"key":"make-fetch-happen:request-cache:https://registry.yarnpkg.com/-/npm/v1/security/audits/quick","integrity":null,"time":1569633585703}
+83177bdb1cccc17275425d3eac380d1dd7eb1398	{"key":"make-fetch-happen:request-cache:https://registry.yarnpkg.com/-/npm/v1/security/audits/quick","integrity":null,"time":1569635626917}

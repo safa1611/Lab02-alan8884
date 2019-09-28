@@ -114,3 +114,7 @@ git commit -m "lab3
 git commit -m "lab3
 git commit -m "lab3"
 git init
+git add .
+git commit -m "lab3"
+git remote add origin https://github.com/safa1611/alan8884-dock-tut
+git push -u origin master
