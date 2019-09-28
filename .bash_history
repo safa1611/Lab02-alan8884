@@ -89,3 +89,28 @@ git push -u origin master
 git pull https://github.com/safa1611/Lab02-alan8884
 git push origin master
 git log
+git add .
+git log
+ls lab2
+git push origin master --force
+git clone https://github.com/safa1611/alan8884-dock-tut
+nano main.tf
+nano quickstart.sh
+chmod +x quickstart.sh
+ls
+touch Dockerfile
+nano Dockerfile
+ls
+gcloud builds submit --tag gcr.io/[PROJECT_ID]/quickstart-image .
+gcloud builds submit --tag gcr.io/[hidden-expense-252201]/quickstart-image .
+ls
+touch cloudbuild.yaml
+nano cloudbuild.yaml
+ls
+nano cloudbuild.yaml
+ls
+git commit -m "lab3
+
+git commit -m "lab3
+git commit -m "lab3"
+git init
