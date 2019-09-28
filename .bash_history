@@ -77,3 +77,15 @@ touch gitignore.txt
 nano gitignore.txt
 ls
 git init
+git add .
+git commit -m "Lab2"
+git remote add origin https://github.com/safa1611/Lab02-alan8884
+git push origin master
+git push -u origin master
+git pull origin master
+git push -u origin master
+git remote -v
+git push -u origin master
+git pull https://github.com/safa1611/Lab02-alan8884
+git push origin master
+git log
